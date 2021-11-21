@@ -1,10 +1,18 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With additional package under the hood
+- React router
+- MUI
+- Axios
+- React auth kit
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `cp .env.example .env`
+Copy the environment configuration file and update the API_ENDPOINT of your choice.
 
 ### `yarn start`
 
